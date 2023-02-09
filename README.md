@@ -1,5 +1,5 @@
 # Assignment6
-Application that sorts randomly-generated arrays created by the user utilizing bubble sort method. Stores unsorted and sorted arrays on separate files.
+Repository for Assignment 6. Application that sorts randomly-generated arrays created by the user utilizing bubble sort method. Stores unsorted and sorted arrays on separate files.
 
 1. Program will ask for the user to input a number that determines the size of the randomly-generated array.
 2. If a non-negative digit is entered, the application will create an array and store it in a file named "unsortedData.txt".
